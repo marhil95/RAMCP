@@ -4,5 +4,12 @@ A Monte-Carlo Tree Search Algorithm that provides tunable conservatism against u
 
 Combines ideas from risk-sensitive optimization, game theory, and bayes adaptive MDPs.
 
-Python 3.7
-Scipy 1.1.0
+
+<b>Package versions:</b> 
+<ul>
+  <li> Python 3.7 </li>
+  <li> Scipy 1.1.0 </li>  
+  <li> Matplotlib 2.2.4 </li>
+</ul>
+
+
